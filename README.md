@@ -26,7 +26,9 @@ This repository maintains a comprehensive, community-curated index of **commerci
 - [🛠️ Open-Source GitHub Projects](#️-open-source-github-projects)
 - [⚡ Recommended Architecture & Workflows](#-recommended-architecture--workflows)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsoring](#-support--sponsoring)
 - [⚖️ Disclaimer](#️-disclaimer)
+- [📈 Star History](#-star-history)
 
 ---
 
@@ -150,11 +152,28 @@ Contributions are highly welcome! Please follow these guidelines:
 
 ---
 
+## 💖 Support & Sponsoring
+
+Thank you for using and exploring **Awesome Attack Surface Management**! If you find this curated list helpful for your security research, infrastructure discovery, or engineering workflows, please consider showing your support:
+
+- ⭐ **Star** this repository to help others discover it.
+- 🔄 **Fork** and contribute new SaaS platforms or open-source tools.
+- 📢 **Share** this list with fellow security engineers, analysts, and red teams.
+- ☕ **Sponsor / Buy Me a Coffee**: Support ongoing maintenance across open-source security lists via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
 ## ⚖️ Disclaimer
 
 - This list is strictly for educational, research, and defensive security engineering purposes.
 - Always obtain explicit written authorization before conducting active scanning, port probing, or vulnerability assessments against third-party networks or domain assets.
 - Open-source tools require self-hosted operations and careful scope configuration. Enterprise SaaS platforms shift continuous infrastructure management and scanning overhead to commercial vendors.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Attack-Surface-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Attack-Surface-Management&type=date&legend=top-left)
 
 ---
 
