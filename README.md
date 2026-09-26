@@ -3,7 +3,7 @@
 [![Awesome Attack Surface Management Banner](assets/banner.svg)](https://github.com/ishandutta2007/Awesome-Attack-Surface-Management)
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Attack-Surface-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Attack-Surface-Management?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Attack-Surface-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Attack-Surface-Management?style=flat-square&color=blue" alt="License"/></a> <a href="https://github.com/ishandutta2007/Awesome-Attack-Surface-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Attack-Surface-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Attack-Surface-Management?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Attack-Surface-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Attack-Surface-Management?style=flat-square&color=blue" alt="License"/></a> <a href="https://github.com/ishandutta2007/Awesome-Attack-Surface-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -67,57 +67,57 @@ The following SaaS platforms provide continuous global asset discovery, automate
 
 Open-source tools offer transparency, infinite customizability, and self-hosted privacy for security teams and researchers building in-house ASM capabilities.
 
-*(Sorted by GitHub Star Count in descending order)*
+*(Sorted by GitHub Stars_Count in descending order)*
 
-1. ⚡ **[Nuclei](https://github.com/projectdiscovery/nuclei)** [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers)  
+1. ⚡ **[Nuclei](https://github.com/projectdiscovery/nuclei)** [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers)  
    *Fast, customizable vulnerability scanner based on simple YAML templates to detect exposures across web applications and infrastructure.*
 
-2. 🚀 **[Masscan](https://github.com/robertdavidgraham/masscan)** [![GitHub stars](https://img.shields.io/github/stars/robertdavidgraham/masscan?style=social&color=white)](https://github.com/robertdavidgraham/masscan/stargazers)  
+2. 🚀 **[Masscan](https://github.com/robertdavidgraham/masscan)** [![GitHub_Stars](https://img.shields.io/github/stars/robertdavidgraham/masscan?style=social&color=white)](https://github.com/robertdavidgraham/masscan/stargazers)  
    *Asynchronous TCP port scanner capable of scanning the entire Internet in under 6 minutes; foundational for high-speed port discovery.*
 
-3. 🌐 **[OWASP Amass](https://github.com/owasp-amass/amass)** [![GitHub stars](https://img.shields.io/github/stars/owasp-amass/amass?style=social&color=white)](https://github.com/owasp-amass/amass/stargazers)  
+3. 🌐 **[OWASP Amass](https://github.com/owasp-amass/amass)** [![GitHub_Stars](https://img.shields.io/github/stars/owasp-amass/amass?style=social&color=white)](https://github.com/owasp-amass/amass/stargazers)  
    *Flagship open-source framework for in-depth attack surface mapping, external asset discovery, OSINT gathering, and asset graph storage.*
 
-4. 🔍 **[Subfinder](https://github.com/projectdiscovery/subfinder)** [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/subfinder?style=social&color=white)](https://github.com/projectdiscovery/subfinder/stargazers)  
+4. 🔍 **[Subfinder](https://github.com/projectdiscovery/subfinder)** [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/subfinder?style=social&color=white)](https://github.com/projectdiscovery/subfinder/stargazers)  
    *Subdomain discovery tool that returns valid subdomains using passive online sources with exceptional speed and minimal overhead.*
 
-5. 🗺️ **[Nmap](https://github.com/nmap/nmap)** [![GitHub stars](https://img.shields.io/github/stars/nmap/nmap?style=social&color=white)](https://github.com/nmap/nmap/stargazers)  
+5. 🗺️ **[Nmap](https://github.com/nmap/nmap)** [![GitHub_Stars](https://img.shields.io/github/stars/nmap/nmap?style=social&color=white)](https://github.com/nmap/nmap/stargazers)  
    *The industry-standard network exploration tool and security/port scanner relied upon by security teams worldwide.*
 
-6. 🎯 **[Nikto](https://github.com/sullo/nikto)** [![GitHub stars](https://img.shields.io/github/stars/sullo/nikto?style=social&color=white)](https://github.com/sullo/nikto/stargazers)  
+6. 🎯 **[Nikto](https://github.com/sullo/nikto)** [![GitHub_Stars](https://img.shields.io/github/stars/sullo/nikto?style=social&color=white)](https://github.com/sullo/nikto/stargazers)  
    *Web server scanner performing comprehensive tests against web servers for thousands of dangerous files, outdated versions, and misconfigurations.*
 
-7. 🤖 **[BBOT](https://github.com/blacklanternsecurity/bbot)** [![GitHub stars](https://img.shields.io/github/stars/blacklanternsecurity/bbot?style=social&color=white)](https://github.com/blacklanternsecurity/bbot/stargazers)  
+7. 🤖 **[BBOT](https://github.com/blacklanternsecurity/bbot)** [![GitHub_Stars](https://img.shields.io/github/stars/blacklanternsecurity/bbot?style=social&color=white)](https://github.com/blacklanternsecurity/bbot/stargazers)  
    *Recursive OSINT & attack surface scanning framework for comprehensive subdomain, IP, cloud asset, code leak, and email enumeration.*
 
-8. 🌐 **[httpx](https://github.com/projectdiscovery/httpx)** [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/httpx?style=social&color=white)](https://github.com/projectdiscovery/httpx/stargazers)  
+8. 🌐 **[httpx](https://github.com/projectdiscovery/httpx)** [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/httpx?style=social&color=white)](https://github.com/projectdiscovery/httpx/stargazers)  
    *Fast and multi-purpose HTTP toolkit enabling probe execution, tech stack fingerprinting, title extraction, and HTTP status verification.*
 
-9. 🎨 **[reNgine](https://github.com/yogeshojha/rengine)** [![GitHub stars](https://img.shields.io/github/stars/yogeshojha/rengine?style=social&color=white)](https://github.com/yogeshojha/rengine/stargazers)  
+9. 🎨 **[reNgine](https://github.com/yogeshojha/rengine)** [![GitHub_Stars](https://img.shields.io/github/stars/yogeshojha/rengine?style=social&color=white)](https://github.com/yogeshojha/rengine/stargazers)  
    *Automated reconnaissance framework featuring a sleek web UI, continuous monitoring pipelines, database asset inventory, and alert notifications.*
 
-10. 🔬 **[WhatWeb](https://github.com/urbanadventurer/WhatWeb)** [![GitHub stars](https://img.shields.io/github/stars/urbanadventurer/WhatWeb?style=social&color=white)](https://github.com/urbanadventurer/WhatWeb/stargazers)  
+10. 🔬 **[WhatWeb](https://github.com/urbanadventurer/WhatWeb)** [![GitHub_Stars](https://img.shields.io/github/stars/urbanadventurer/WhatWeb?style=social&color=white)](https://github.com/urbanadventurer/WhatWeb/stargazers)  
     *Next-generation web scanner identifying web technologies, content management systems (CMS), embedded devices, and server configurations.*
 
-11. 📊 **[Faraday](https://github.com/infobyte/faraday)** [![GitHub stars](https://img.shields.io/github/stars/infobyte/faraday?style=social&color=white)](https://github.com/infobyte/faraday/stargazers)  
+11. 📊 **[Faraday](https://github.com/infobyte/faraday)** [![GitHub_Stars](https://img.shields.io/github/stars/infobyte/faraday?style=social&color=white)](https://github.com/infobyte/faraday/stargazers)  
     *Open-source collaborative vulnerability management and recon aggregation platform that unifies results from dozens of scanners into one UI.*
 
-12. ⚡ **[Naabu](https://github.com/projectdiscovery/naabu)** [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/naabu?style=social&color=white)](https://github.com/projectdiscovery/naabu/stargazers)  
+12. ⚡ **[Naabu](https://github.com/projectdiscovery/naabu)** [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/naabu?style=social&color=white)](https://github.com/projectdiscovery/naabu/stargazers)  
     *Fast port scanner written in Go focused on speed, simplicity, and reliable host port enumeration.*
 
-13. 📷 **[Aquatone](https://github.com/michenriksen/aquatone)** [![GitHub stars](https://img.shields.io/github/stars/michenriksen/aquatone?style=social&color=white)](https://github.com/michenriksen/aquatone/stargazers)  
+13. 📷 **[Aquatone](https://github.com/michenriksen/aquatone)** [![GitHub_Stars](https://img.shields.io/github/stars/michenriksen/aquatone?style=social&color=white)](https://github.com/michenriksen/aquatone/stargazers)  
     *Tool for visual inspection of websites across discovered subdomains to quickly identify high-value visual targets.*
 
-14. 🕵️ **[Recon-ng](https://github.com/lanmaster53/recon-ng)** [![GitHub stars](https://img.shields.io/github/stars/lanmaster53/recon-ng?style=social&color=white)](https://github.com/lanmaster53/recon-ng/stargazers)  
+14. 🕵️ **[Recon-ng](https://github.com/lanmaster53/recon-ng)** [![GitHub_Stars](https://img.shields.io/github/stars/lanmaster53/recon-ng?style=social&color=white)](https://github.com/lanmaster53/recon-ng/stargazers)  
     *Full-featured Web Reconnaissance framework written in Python with modular architecture, independent modules, and built-in database storage.*
 
-15. 🕷️ **[Hakrawler](https://github.com/hakluke/hakrawler)** [![GitHub stars](https://img.shields.io/github/stars/hakluke/hakrawler?style=social&color=white)](https://github.com/hakluke/hakrawler/stargazers)  
+15. 🕷️ **[Hakrawler](https://github.com/hakluke/hakrawler)** [![GitHub_Stars](https://img.shields.io/github/stars/hakluke/hakrawler?style=social&color=white)](https://github.com/hakluke/hakrawler/stargazers)  
     *Simple, fast web crawler for discovering endpoints, JavaScript files, and hidden assets within web application attack surfaces.*
 
-16. 📸 **[GoWitness](https://github.com/sensepost/gowitness)** [![GitHub stars](https://img.shields.io/github/stars/sensepost/gowitness?style=social&color=white)](https://github.com/sensepost/gowitness/stargazers)  
+16. 📸 **[GoWitness](https://github.com/sensepost/gowitness)** [![GitHub_Stars](https://img.shields.io/github/stars/sensepost/gowitness?style=social&color=white)](https://github.com/sensepost/gowitness/stargazers)  
     *Go-based web screenshot utility using Chrome Headless to capture screenshot evidence of exposed web services and web applications.*
 
-17. 🔓 **[Uncover](https://github.com/projectdiscovery/uncover)** [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/uncover?style=social&color=white)](https://github.com/projectdiscovery/uncover/stargazers)  
+17. 🔓 **[Uncover](https://github.com/projectdiscovery/uncover)** [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/uncover?style=social&color=white)](https://github.com/projectdiscovery/uncover/stargazers)  
     *API wrapper tool for searching hosts across Censys, Shodan, ZoomEye, FOFA, Quake, and Hunter passive search engine APIs.*
 
 ---
